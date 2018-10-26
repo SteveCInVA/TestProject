@@ -1,2 +1,4 @@
 test1
 change 2
+
+amended stash
