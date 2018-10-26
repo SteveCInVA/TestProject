@@ -1,4 +1,1 @@
-test1
-change 2
-
-amended stash
+Version 2.0 base
